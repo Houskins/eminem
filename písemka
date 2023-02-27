@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Můj web</title>
+    <style>
+      /* tady budou definovány CSS styly */
+    </style>
+  </head>
+  <body>
+    <!-- menu -->
+
+    <!-- Úvod -->
+
+    <!-- Galerie -->
+    <section id="galerie">
+      <h1>Galerie</h1>
+      <section id="galerie-2022"></section>
+      <h2>2022</h2>
+      <div>
+
+      </div>
+      <section id="galerie-2021"></section>
+      <h2>2021</h2>
+      <div>
+
+      </div>
+      <section id="galerie-2020"></section>
+      <h2>2020</h2>
+      <div>
+
+      </div>
+    </section>
+
+    <!-- O mně -->
+    <section id="o-mne">
+      <h2>O mně</h2>
+
+      <!-- Zkušenosti -->
+      <section id="zkusenosti">
+        <h3>Zkušenosti</h3>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin iaculis augue velit, in blandit ligula pharetra non. Sed vel scelerisque sem, vel fermentum velit. Aliquam erat volutpat. Curabitur vestibulum congue ante, vel iaculis quam pellentesque id.</p>
+        <p>Praesent auctor diam at eros elementum, non placerat nulla pellentesque. Ut non mauris non justo blandit varius. Donec luctus, nisi eu feugiat facilisis, lacus tellus mollis diam, quis aliquam lectus sapien vel elit.</p>
+      </section>
+    
+      <!-- Užitečné odkazy -->
+      <section id="odkazy">
+        <h3>Užitečné odkazy</h3>
+        <ul>
+          <li><a href="https://www.example.com/">Example</a></li>
+          <li><a href="https://www.github.com/">GitHub</a></li>
+        </ul>
+      </section>
+    
+      <!-- Kontakt -->
+      <section id="kontakt">
+        <h3>Kontakt</h3>
+        <ul>
+          <li>
+            <span class="fa fa-envelope"></span>
+            <a href="mailto:your-email@example.com">eminemail@seznam.cz</a>
+          </li>
+          <li>
+            <span class="fa fa-phone"></span>
+            <a href="tel:+420123456789">+420 127 416 000</a>
+          </li>
+          <li>
+            <span class="fa fa-map-marker"></span>
+            <address>Address Eminem 3, Address Eminem 69/96, 420 Eminem City</address>
+          </li>
+        </ul>
+      </section>
+    </section>
+    
+     
